@@ -1,6 +1,3 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/2902699114_4032274102_223132457.mp4'
-file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/3931933789_3315967912_2081748171.mp4'
-file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/3931933789_2771200754_1368182034.mp4'
-file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/3931933789_2526496290_3038956701.mp4'
-file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/3931933789_1714044805_3147540234.mp4'
+file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/2902699114_1369537308_223132457.mp4'
+file 'file:C:/Users/saral/PycharmProjects/Topology-Animations/media/videos/animation/1080p60/partial_movie_files/MyFirstAnimation/3931933789_3315967912_1169160788.mp4'
