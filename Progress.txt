@@ -1,0 +1,4 @@
+Update on 25/04/2023 made my first square using Manim.
+26-04-2023: Struggling to find function which can label the edges of the square.
+            There are so few resources for this apparently it was developed by 3Blue1Brown.
+            I'm guessing around 2015 who knows when it even went public.
