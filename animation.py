@@ -25,7 +25,7 @@ class MyFirstAnimation(Scene):
         arrow_horizontal.next_to(square, UP, buff=0)
         self.add(square, arrow_horizontal)
         self.add(square, label_top, label_bottom, label_left, label_right)
-
+        #Randy
         # Animate Fade in of the star that takes 2 seconds
         self.play(FadeIn(square, run_time=2))
         # Wait for a second
